@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DArchive.Api/DArchive.Api.csproj" />
+  <Project Path="DArchive.Application/DArchive.Application.csproj" />
+  <Project Path="DArchive.Domain/DArchive.Domain.csproj" />
+  <Project Path="DArchive.Infrastructure/DArchive.Infrastructure.csproj" />
+  <Project Path="DArchive.Tests/DArchive.Tests.csproj" />
+</Solution>
